@@ -1,20 +1,20 @@
 {
-  "ENABLED" = "Enabled";
-  "SHOW_BUTTONS" = 'Show "Collapse" / "Clear All" buttons';
-  "USE_ICONS" = "Use icons instead of text for buttons";
+  "ENABLED" = "Aktifkan";
+  "SHOW_BUTTONS" = 'Tampilkan "Lebih sedikit" / "Hapus semua" tombol';
+  "USE_ICONS" = "Gunakan icon untuk tombol";
   "RESPRING" = "Respring";
-  "ARE_YOU_SURE_TO_RESET_PREFS" = "Are you sure you want to reset all your preferences? This cannot be undone.";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Apakah Anda yakin ingin mengatur ulang semua preferensi Anda? Ini tidak dapat dibatalkan.";
   "OK" = "OK";
-  "CANCEL" = "Cancel";
-  "RESET_PREFS" = "Restore default settings and respring";
-  "SOURCE_CODE" = "Source code";
-  "DONATE_TO_NEPETA" = "Donate to Nepeta";
-  "SUPPORT_ME" = "Support me!";
-  "OFF" = "Off";
-  "ICON_THEME" = "Icon theme";
-  "GROUP_BY" = "Group notifications by";
-  "GROUP_BY_APP" = "App";
-  "GROUP_BY_THREAD" = "Thread";
-  "SHOW_CLEAR_ALL" = 'Show "Clear All" button over all notifications';
-  "ANIMATION_SPEED" = 'Animation speed';
+  "CANCEL" = "Batal";
+  "RESET_PREFS" = "Kembalikan pengaturan default dan respring";
+  "SOURCE_CODE" = "Sumber kode";
+  "DONATE_TO_NEPETA" = "Donasi untuk Nepeta";
+  "SUPPORT_ME" = "Dukung saya!";
+  "OFF" = "Matikan";
+  "ICON_THEME" = "Tema icon";
+  "GROUP_BY" = "Urut berdasarkan";
+  "GROUP_BY_APP" = "Aplikasi";
+  "GROUP_BY_THREAD" = "Rangkaian";
+  "SHOW_CLEAR_ALL" = 'Tampilkan tombol "Hapus semua" untuk seluruh notifikasi';
+  "ANIMATION_SPEED" = 'Kecepatan animasi';
 }
